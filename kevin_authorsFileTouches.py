@@ -1,7 +1,7 @@
 import csv
 import requests
 
-token = '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'
+token = ''
 repo = 'scottyab/rootbeer'
 
 def github_auth(url):
