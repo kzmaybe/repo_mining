@@ -1,0 +1,13 @@
+Filename,Touches
+app/src/main/java/com/scottyab/rootbeer/sample/CheckForRootWorker.kt,3
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeerNative.java,3
+rootbeerlib/src/test/java/com/scottyab/rootbeer/RootBeerTest.java,13
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,34
+rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java,10
+rootbeerlib/src/main/java/com/scottyab/rootbeer/util/QLog.java,4
+rootbeerlib/src/androidTest/java/com/scottyab/rootbeer/ApplicationTest.java,1
+app/src/main/java/com/scottyab/rootbeer/sample/TextViewFont.java,1
+app/src/main/java/com/scottyab/rootbeer/sample/CheckRootTask.java,2
+app/src/main/java/com/scottyab/rootbeer/sample/MainActivity.java,2
+rootbeerlib/src/main/java/com/scottyab/rootbeer/util/Utils.java,3
+app/src/main/java/com/scottyab/rootchecker/RootCheck.java,3
